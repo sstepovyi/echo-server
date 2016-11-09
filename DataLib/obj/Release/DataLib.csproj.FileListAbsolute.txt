@@ -1,0 +1,9 @@
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\DataLib\bin\Release\DataLib.dll
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\DataLib\bin\Release\DataLib.pdb
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\DataLib\obj\Release\DataLib.dll
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\DataLib\obj\Release\DataLib.pdb
+C:\Users\sstepovyi.IMB\Documents\Visual Studio 2015\Projects\echo server\echo server\DataLib\bin\Release\DataLib.dll
+C:\Users\sstepovyi.IMB\Documents\Visual Studio 2015\Projects\echo server\echo server\DataLib\bin\Release\DataLib.pdb
+C:\Users\sstepovyi.IMB\Documents\Visual Studio 2015\Projects\echo server\echo server\DataLib\obj\Release\DataLib.csprojResolveAssemblyReference.cache
+C:\Users\sstepovyi.IMB\Documents\Visual Studio 2015\Projects\echo server\echo server\DataLib\obj\Release\DataLib.dll
+C:\Users\sstepovyi.IMB\Documents\Visual Studio 2015\Projects\echo server\echo server\DataLib\obj\Release\DataLib.pdb

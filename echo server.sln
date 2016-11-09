@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "echo server", "echo server\echo server.csproj", "{E5B482EB-46C2-4D4B-81DE-44461B0748A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{7E47D1BF-0F12-4FDC-97ED-6E2C87FF1D9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLib", "DataLib\DataLib.csproj", "{3C83E0D4-BD32-46ED-B6C3-298E55DC8B4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5B482EB-46C2-4D4B-81DE-44461B0748A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5B482EB-46C2-4D4B-81DE-44461B0748A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5B482EB-46C2-4D4B-81DE-44461B0748A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5B482EB-46C2-4D4B-81DE-44461B0748A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E47D1BF-0F12-4FDC-97ED-6E2C87FF1D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E47D1BF-0F12-4FDC-97ED-6E2C87FF1D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E47D1BF-0F12-4FDC-97ED-6E2C87FF1D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E47D1BF-0F12-4FDC-97ED-6E2C87FF1D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C83E0D4-BD32-46ED-B6C3-298E55DC8B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C83E0D4-BD32-46ED-B6C3-298E55DC8B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C83E0D4-BD32-46ED-B6C3-298E55DC8B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C83E0D4-BD32-46ED-B6C3-298E55DC8B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,24 @@
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\echo server\bin\Release\echo server.exe.config
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\echo server\bin\Release\echo server.exe
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\echo server\bin\Release\echo server.pdb
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\echo server\bin\Release\DataLib.dll
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\echo server\bin\Release\DataLib.pdb
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\echo server\obj\Release\echo server.csprojResolveAssemblyReference.cache
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\echo server\obj\Release\echo server.exe
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\echo server\obj\Release\echo server.pdb
+C:\Users\admin\Desktop\echo server\echo server\bin\Release\echo server.exe.config
+C:\Users\admin\Desktop\echo server\echo server\bin\Release\echo server.exe
+C:\Users\admin\Desktop\echo server\echo server\bin\Release\echo server.pdb
+C:\Users\admin\Desktop\echo server\echo server\bin\Release\DataLib.dll
+C:\Users\admin\Desktop\echo server\echo server\bin\Release\DataLib.pdb
+C:\Users\admin\Desktop\echo server\echo server\obj\Release\echo server.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\echo server\echo server\obj\Release\echo server.exe
+C:\Users\admin\Desktop\echo server\echo server\obj\Release\echo server.pdb
+C:\Users\sstepovyi.IMB\Documents\Visual Studio 2015\Projects\echo server\echo server\echo server\bin\Release\echo server.exe.config
+C:\Users\sstepovyi.IMB\Documents\Visual Studio 2015\Projects\echo server\echo server\echo server\bin\Release\echo server.exe
+C:\Users\sstepovyi.IMB\Documents\Visual Studio 2015\Projects\echo server\echo server\echo server\bin\Release\echo server.pdb
+C:\Users\sstepovyi.IMB\Documents\Visual Studio 2015\Projects\echo server\echo server\echo server\bin\Release\DataLib.dll
+C:\Users\sstepovyi.IMB\Documents\Visual Studio 2015\Projects\echo server\echo server\echo server\bin\Release\DataLib.pdb
+C:\Users\sstepovyi.IMB\Documents\Visual Studio 2015\Projects\echo server\echo server\echo server\obj\Release\echo server.csprojResolveAssemblyReference.cache
+C:\Users\sstepovyi.IMB\Documents\Visual Studio 2015\Projects\echo server\echo server\echo server\obj\Release\echo server.exe
+C:\Users\sstepovyi.IMB\Documents\Visual Studio 2015\Projects\echo server\echo server\echo server\obj\Release\echo server.pdb

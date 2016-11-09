@@ -1,0 +1,24 @@
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\Client\bin\Release\Client.exe.config
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\Client\bin\Release\Client.exe
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\Client\bin\Release\Client.pdb
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\Client\bin\Release\DataLib.dll
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\Client\bin\Release\DataLib.pdb
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\Client\obj\Release\Client.exe
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\Client\obj\Release\Client.pdb
+C:\Users\admin\Desktop\echo server\Client\bin\Release\Client.exe.config
+C:\Users\admin\Desktop\echo server\Client\obj\Release\Client.exe
+C:\Users\admin\Desktop\echo server\Client\obj\Release\Client.pdb
+C:\Users\admin\Desktop\echo server\Client\bin\Release\Client.exe
+C:\Users\admin\Desktop\echo server\Client\bin\Release\Client.pdb
+C:\Users\admin\Desktop\echo server\Client\bin\Release\DataLib.dll
+C:\Users\admin\Desktop\echo server\Client\bin\Release\DataLib.pdb
+C:\Users\admin\Desktop\echo server\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
+C:\Users\sstepovyi.IMB\Documents\Visual Studio 2015\Projects\echo server\echo server\Client\bin\Release\Client.exe.config
+C:\Users\sstepovyi.IMB\Documents\Visual Studio 2015\Projects\echo server\echo server\Client\obj\Release\Client.exe
+C:\Users\sstepovyi.IMB\Documents\Visual Studio 2015\Projects\echo server\echo server\Client\obj\Release\Client.pdb
+C:\Users\sstepovyi.IMB\Documents\Visual Studio 2015\Projects\echo server\echo server\Client\bin\Release\Client.exe
+C:\Users\sstepovyi.IMB\Documents\Visual Studio 2015\Projects\echo server\echo server\Client\bin\Release\Client.pdb
+C:\Users\sstepovyi.IMB\Documents\Visual Studio 2015\Projects\echo server\echo server\Client\bin\Release\DataLib.dll
+C:\Users\sstepovyi.IMB\Documents\Visual Studio 2015\Projects\echo server\echo server\Client\bin\Release\DataLib.pdb
+C:\Users\sstepovyi.IMB\Documents\Visual Studio 2015\Projects\echo server\echo server\Client\obj\Release\Client.csprojResolveAssemblyReference.cache

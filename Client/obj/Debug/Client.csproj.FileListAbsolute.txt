@@ -1,0 +1,16 @@
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\Client\bin\Debug\Client.exe.config
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\Client\bin\Debug\Client.exe
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\Client\bin\Debug\Client.pdb
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\Client\obj\Debug\Client.exe
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\Client\obj\Debug\Client.pdb
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\Client\bin\Debug\DataLib.dll
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\Client\bin\Debug\DataLib.pdb
+C:\Users\admin\Desktop\echo server\Client\bin\Debug\Client.exe.config
+C:\Users\admin\Desktop\echo server\Client\obj\Debug\Client.exe
+C:\Users\admin\Desktop\echo server\Client\obj\Debug\Client.pdb
+C:\Users\admin\Desktop\echo server\Client\bin\Debug\Client.exe
+C:\Users\admin\Desktop\echo server\Client\bin\Debug\Client.pdb
+C:\Users\admin\Desktop\echo server\Client\bin\Debug\DataLib.dll
+C:\Users\admin\Desktop\echo server\Client\bin\Debug\DataLib.pdb
+C:\Users\admin\Desktop\echo server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

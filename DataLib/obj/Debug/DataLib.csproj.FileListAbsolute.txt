@@ -1,0 +1,12 @@
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\DataLib\obj\Debug\DataLib.csprojResolveAssemblyReference.cache
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\DataLib\bin\Debug\DataLib.dll
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\DataLib\bin\Debug\DataLib.pdb
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\DataLib\obj\Debug\DataLib.dll
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\DataLib\obj\Debug\DataLib.pdb
+C:\Users\admin\Desktop\echo server\DataLib\bin\Debug\DataLib.dll
+C:\Users\admin\Desktop\echo server\DataLib\bin\Debug\DataLib.pdb
+C:\Users\admin\Desktop\echo server\DataLib\bin\Debug\DataLib.dll.CodeAnalysisLog.xml
+C:\Users\admin\Desktop\echo server\DataLib\bin\Debug\DataLib.dll.lastcodeanalysissucceeded
+C:\Users\admin\Desktop\echo server\DataLib\obj\Debug\DataLib.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\echo server\DataLib\obj\Debug\DataLib.dll
+C:\Users\admin\Desktop\echo server\DataLib\obj\Debug\DataLib.pdb

@@ -1,0 +1,18 @@
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\echo server\bin\Debug\echo server.exe.config
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\echo server\bin\Debug\echo server.exe
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\echo server\bin\Debug\echo server.pdb
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\echo server\obj\Debug\echo server.exe
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\echo server\obj\Debug\echo server.pdb
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\echo server\obj\Debug\echo server.csprojResolveAssemblyReference.cache
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\echo server\bin\Debug\DataLib.dll
+c:\users\sstepovyi\documents\visual studio 2012\Projects\console\echo server\echo server\bin\Debug\DataLib.pdb
+C:\Users\admin\Desktop\echo server\echo server\bin\Debug\echo server.exe.config
+C:\Users\admin\Desktop\echo server\echo server\obj\Debug\echo server.exe
+C:\Users\admin\Desktop\echo server\echo server\obj\Debug\echo server.pdb
+C:\Users\admin\Desktop\echo server\echo server\bin\Debug\echo server.exe
+C:\Users\admin\Desktop\echo server\echo server\bin\Debug\echo server.pdb
+C:\Users\admin\Desktop\echo server\echo server\bin\Debug\DataLib.dll
+C:\Users\admin\Desktop\echo server\echo server\bin\Debug\DataLib.pdb
+C:\Users\admin\Desktop\echo server\echo server\obj\Debug\echo server.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\echo server\echo server\bin\Debug\echo server.exe.CodeAnalysisLog.xml
+C:\Users\admin\Desktop\echo server\echo server\bin\Debug\echo server.exe.lastcodeanalysissucceeded
